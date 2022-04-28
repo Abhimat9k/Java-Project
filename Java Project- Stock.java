@@ -17,10 +17,8 @@ public class Stock {
 	        System.out.println("\t         Welcome To The Project       "); 
 	        System.out.println("\t                 Stock                "); 
 	        System.out.println("\t                                      "); 
-	        System.out.println("\t                Made by:-             "); 
-	        System.out.println("\t             Abhimat Kala             "); 
+	       
 	        
-	  
 	System.out.println("\t*******"); 
 	        
 	System.out.println("\t*******"); 
