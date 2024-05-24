@@ -1,4 +1,4 @@
-# Java-Project
+# JAVA STOCK MANAGEMENT SYSTEM
 
 In developing the Stock Management System using Java, I applied a range of programming and problem-solving skills to create a functional and user-friendly console-based application. The project involved designing and implementing features that allow users to manage stock items effectively, from adding new items to issuing and returning them.
 
